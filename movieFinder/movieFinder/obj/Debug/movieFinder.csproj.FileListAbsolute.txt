@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\movieFinder\movieFinder\bin\Debug\movieFinder.exe.config
+C:\Users\Student\source\repos\movieFinder\movieFinder\bin\Debug\movieFinder.exe
+C:\Users\Student\source\repos\movieFinder\movieFinder\bin\Debug\movieFinder.pdb
+C:\Users\Student\source\repos\movieFinder\movieFinder\obj\Debug\movieFinder.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\movieFinder\movieFinder\obj\Debug\movieFinder.Form1.resources
+C:\Users\Student\source\repos\movieFinder\movieFinder\obj\Debug\movieFinder.Properties.Resources.resources
+C:\Users\Student\source\repos\movieFinder\movieFinder\obj\Debug\movieFinder.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\movieFinder\movieFinder\obj\Debug\movieFinder.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\movieFinder\movieFinder\obj\Debug\movieFinder.exe
+C:\Users\Student\source\repos\movieFinder\movieFinder\obj\Debug\movieFinder.pdb
